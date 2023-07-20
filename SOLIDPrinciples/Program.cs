@@ -7,9 +7,8 @@ namespace SOLIDPrinciples
     {
         static void Main(string[] args)
         {
-            //
+            // You can find each of SOLID examples in different branches.
         }
     }
 }
-
 
